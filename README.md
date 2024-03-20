@@ -45,6 +45,9 @@ You should restructure the headings below to match the order they appear in your
 ### 2.4. Health Pickups
 
 ### 2.5. Keys
+IMG
+
+Keys are required to open the final door to proceed to the next level, for this reason I chose to place a key behind a door with a switch to open it. I chose to introduce keys this way so that players draw a connection between keys and doors, as collecting three keys is required to progress to the next level.
 
 ### 2.6. Moving Platforms
 
