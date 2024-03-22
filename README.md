@@ -39,7 +39,9 @@ You should restructure the headings below to match the order they appear in your
 ### 2.1. Acid and Checkpoints
 IMG
 
-Understanding how checkpoints work is crucial for players as it plays into the intensity curve and provides peroids of relief. For this reason, it was important that checkpoints were introduced with a hazardous mechanic. Acid was chosen for this as it essentially acts as a hard reset for players in the game, either reseting their progress or reverting them to a previous checkpoint. By having Acid and Checkpoints introduced in a single encounter, it allows players to safely investigate the properties of Acid while being given a saftey net.
+Understanding how checkpoints work is crucial for players as it plays into the intensity curve and provides peroids of relief. For this reason, it was important that checkpoints were introduced with a hazardous mechanic. 
+
+Acid was chosen for this as it essentially acts as a hard reset for players in the game, either reseting their progress or reverting them to a previous checkpoint. By having Acid and Checkpoints introduced in a single encounter, it allows players to safely investigate the properties of Acid while being given a saftey net.
 
 ### 2.2. Chompers
 
@@ -50,17 +52,20 @@ Understanding how checkpoints work is crucial for players as it plays into the i
 
 Keys are required to open the final door to proceed to the next level, for this reason I chose to place a key behind a door with a switch to open it. I chose to introduce keys this way so that players draw a connection between keys and doors, as collecting three keys is required to progress to the next level.
 
-### 2.5. Moving Platforms
+### 2.5. Moving Platforms and Spikes
+IMG
+
+Moving platforms are a method of transportation for the player to be carried from one point in the game world to another. As such, it is important that they are introduced with another mechanic that encourages players to use them.
+
+For this reason, spikes are introduced to the player with moving platforms. It provides the player with a hazardous encounter, and provides them with a solution to overcome the encounter. Players will recognise moving platorms as a means of transportation through areas a player otherwise may not be able to progress through.
 
 ### 2.6. Passthrough Platforms
 
-### 2.7. Spikes
+### 2.7. Spitters
 
-### 2.8. Spitters
+### 2.8. Weapon Pickup (Gun)
 
-### 2.9. Weapon Pickup (Gun)
-
-### 2.10. Weapon Pickup (Staff)
+### 2.9. Weapon Pickup (Staff)
 
 ## 3. Spatiotemporal Design
 A section on Spatiotemporal Design, which includes your molecule diagram and annotated level maps (one for each main section of your level). These diagrams may be made digitally or by hand, but must not be created from screenshots of your game. The annotated level maps should show the structure you intend to build, included game elements, and the path the player is expected to take through the level. Examples of these diagrams are included in the level design lectures.
