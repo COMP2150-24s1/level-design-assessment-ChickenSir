@@ -44,6 +44,11 @@ Understanding how checkpoints work is crucial for players as it plays into the i
 Acid was chosen for this as it essentially acts as a hard reset for players in the game, either reseting their progress or reverting them to a previous checkpoint. By having Acid and Checkpoints introduced in a single encounter, it allows players to safely investigate the properties of Acid while being given a saftey net.
 
 ### 2.2. Chompers and Weapon Pickup (Staff)
+IMG
+
+In some parts of the game players will encounter Chompers, a melee based enemy that may serve as a road block to players and provide them with a challenge. For this reason Chompers are introduced in a single pair so that players may safely understand their capabilities.
+
+In this case, the player is introduced to the staff melee weapon pickup followed immediately by a pair of chompers. By being introduced in this order, players will draw connections between the Chompers and the Staff and be given an opportunity to discover the dynamics between these two mechanics.
 
 ### 2.3. Health Pickups and Passthrough Platforms
 IMG
