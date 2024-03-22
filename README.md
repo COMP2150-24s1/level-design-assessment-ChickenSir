@@ -36,30 +36,31 @@ Storyboards can be combined when multiple mechanics are introduced within a sing
 
 You should restructure the headings below to match the order they appear in your level.
 
-### 2.1. Acid
+### 2.1. Acid and Checkpoints
+IMG
 
-### 2.2. Checkpoints
+Understanding how checkpoints work is crucial for players as it plays into the intensity curve and provides peroids of relief. For this reason, it was important that checkpoints were introduced with a hazardous mechanic. Acid was chosen for this as it essentially acts as a hard reset for players in the game, either reseting their progress or reverting them to a previous checkpoint. By having Acid and Checkpoints introduced in a single encounter, it allows players to safely investigate the properties of Acid while being given a saftey net.
 
-### 2.3. Chompers
+### 2.2. Chompers
 
-### 2.4. Health Pickups
+### 2.3. Health Pickups
 
-### 2.5. Keys
+### 2.4. Keys
 ![Key Mechanic Demonstration](DocImages/keys_storyboard.jpeg)
 
 Keys are required to open the final door to proceed to the next level, for this reason I chose to place a key behind a door with a switch to open it. I chose to introduce keys this way so that players draw a connection between keys and doors, as collecting three keys is required to progress to the next level.
 
-### 2.6. Moving Platforms
+### 2.5. Moving Platforms
 
-### 2.7. Passthrough Platforms
+### 2.6. Passthrough Platforms
 
-### 2.8. Spikes
+### 2.7. Spikes
 
-### 2.9. Spitters
+### 2.8. Spitters
 
-### 2.10. Weapon Pickup (Gun)
+### 2.9. Weapon Pickup (Gun)
 
-### 2.11. Weapon Pickup (Staff)
+### 2.10. Weapon Pickup (Staff)
 
 ## 3. Spatiotemporal Design
 A section on Spatiotemporal Design, which includes your molecule diagram and annotated level maps (one for each main section of your level). These diagrams may be made digitally or by hand, but must not be created from screenshots of your game. The annotated level maps should show the structure you intend to build, included game elements, and the path the player is expected to take through the level. Examples of these diagrams are included in the level design lectures.
