@@ -44,14 +44,14 @@ Understanding how checkpoints work is crucial for players as it plays into the i
 Acid was chosen for this as it essentially acts as a hard reset for players in the game, either reseting their progress or reverting them to a previous checkpoint. By having Acid and Checkpoints introduced in a single encounter, it allows players to safely investigate the properties of Acid while being given a saftey net.
 
 ### 2.2. Chompers and Weapon Pickup (Staff)
-IMG
+![Chompers and Staff Demonstration](DocImages/chompers_staff_storyboard.jpeg)
 
 In some parts of the game players will encounter Chompers, a melee based enemy that may serve as a road block to players and provide them with a challenge. For this reason Chompers are introduced in a single pair so that players may safely understand their capabilities.
 
 In this case, the player is introduced to the staff melee weapon pickup followed immediately by a pair of chompers. By being introduced in this order, players will draw connections between the Chompers and the Staff and be given an opportunity to discover the dynamics between these two mechanics.
 
 ### 2.3. Health Pickups and Passthrough Platforms
-IMG
+![Health and Passthrough Platforms Demonstration](DocImages/health_platforms_storyboard.jpeg)
 
 Health Pickups are arguably the most critical mechanic of the game, as it provides players with a point of relief and hope. As players will always be inclinded to collect health pickups, they can be introduced with another mechanic within the same encounter to help players learn.
 
@@ -63,14 +63,14 @@ For this purpose, passthrough platforms were chosen as the second mechanic. Play
 Keys are required to open the final door to proceed to the next level, for this reason I chose to place a key behind a door with a switch to open it. I chose to introduce keys this way so that players draw a connection between keys and doors, as collecting three keys is required to progress to the next level.
 
 ### 2.5. Moving Platforms and Spikes
-IMG
+![Moving Platforms and Spikes Demonstration](DocImages/moving_platforms_spikes_storyboard.jpeg)
 
 Moving platforms are a method of transportation for the player to be carried from one point in the game world to another. As such, it is important that they are introduced with another mechanic that encourages players to use them.
 
 For this reason, spikes are introduced to the player with moving platforms. It provides the player with a hazardous encounter, and provides them with a solution to overcome the encounter. Players will recognise moving platorms as a means of transportation through areas a player otherwise may not be able to progress through.
 
 ### 2.6. Spitters and Weapon Pickup (Gun)
-IMG
+![Spitters and Gun Demonstration](DocImages/spitters_and_gun_storyboard.jpeg)
 
 Throughout the game, players will encounter enemies that provide moments of tension for the player. As such, it is important to introduce enemies to the player in a safe manner while also giving players the opportunity to familiarise themselves with the tools at their disposal.
 
