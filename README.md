@@ -45,7 +45,12 @@ Acid was chosen for this as it essentially acts as a hard reset for players in t
 
 ### 2.2. Chompers and Weapon Pickup (Staff)
 
-### 2.3. Health Pickups
+### 2.3. Health Pickups and Passthrough Platforms
+IMG
+
+Health Pickups are arguably the most critical mechanic of the game, as it provides players with a point of relief and hope. As players will always be inclinded to collect health pickups, they can be introduced with another mechanic within the same encounter to help players learn.
+
+For this purpose, passthrough platforms were chosen as the second mechanic. Players will notice the health pickups underneath the platform and attempt to experiment in order to reach them, eventually passing through into what would seem like an impossible to reach area. This combination of mechanics allows the player to learn through play.
 
 ### 2.4. Keys
 ![Key Mechanic Demonstration](DocImages/keys_storyboard.jpeg)
@@ -59,9 +64,7 @@ Moving platforms are a method of transportation for the player to be carried fro
 
 For this reason, spikes are introduced to the player with moving platforms. It provides the player with a hazardous encounter, and provides them with a solution to overcome the encounter. Players will recognise moving platorms as a means of transportation through areas a player otherwise may not be able to progress through.
 
-### 2.6. Passthrough Platforms
-
-### 2.7. Spitters and Weapon Pickup (Gun)
+### 2.6. Spitters and Weapon Pickup (Gun)
 
 ## 3. Spatiotemporal Design
 A section on Spatiotemporal Design, which includes your molecule diagram and annotated level maps (one for each main section of your level). These diagrams may be made digitally or by hand, but must not be created from screenshots of your game. The annotated level maps should show the structure you intend to build, included game elements, and the path the player is expected to take through the level. Examples of these diagrams are included in the level design lectures.
