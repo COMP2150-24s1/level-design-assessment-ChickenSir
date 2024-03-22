@@ -37,7 +37,7 @@ Storyboards can be combined when multiple mechanics are introduced within a sing
 You should restructure the headings below to match the order they appear in your level.
 
 ### 2.1. Acid and Checkpoints
-IMG
+![Acid and Checkpoints Demonstration](DocImages/checkpoints_acid_storyboard.jpeg)
 
 Understanding how checkpoints work is crucial for players as it plays into the intensity curve and provides peroids of relief. For this reason, it was important that checkpoints were introduced with a hazardous mechanic. 
 
