@@ -88,6 +88,7 @@ No additional words are necessary for this section (any words should only be wit
 ![Level Map Section 1](DocImages/section1_map.png)
 
 ### 3.3.	Level Map – Section 2
+![Level Map Section 2](DocImages/section2_map.png)
 
 ### 3.4.	Level Map – Section 3
 
