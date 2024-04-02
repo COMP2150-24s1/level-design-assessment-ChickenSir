@@ -85,6 +85,7 @@ No additional words are necessary for this section (any words should only be wit
 ![Molecule Diagram of Level](DocImages/molecule_diagram.png)
 
 ### 3.2. Level Map – Section 1
+![Level Map Section 1](DocImages/section1_map.png)
 
 ### 3.3.	Level Map – Section 2
 
