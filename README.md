@@ -98,6 +98,12 @@ Reflect on how iterative design helped to improve your level. Additional prototy
 
 You should conclude by highlighting a specific example of an encounter, or another aspect of your level design, that could be improved through further iterative design.
 
+The iterative design process allowed me to test out the concepts from the level maps, and adapt them to better suit the gameplay loop in engine. The first encounter with acid seemed a little too difficult for an introduction to checkpoints, so the first acid pit was removed as seen in the image below.
+![Updated Section 1 Acid Encounter](DocImages/acid_iteration.png)
+
+The chomper encounter storyboard for the first section did not account for the chompers ability to move up until they encounter a ledge or a wall. This meant that the chompers could move ontop of the staff weapon pickup. This was adjusted with a small bump being added after the staff pickup so the chompers remain in a controlled area.
+![Updated Section 1 Chomper Encounter](DocImages/chomper_iteration)
+
 ## Generative AI Use Acknowledgement
 
 Use the below table to indicate any Generative AI or writing assistance tools used in creating your document. Please be honest and thorough in your reporting, as this will allow us to give you the marks you have earnt. Place any drafts or other evidence inside this repository. This form and related evidence do not count to your word count.
