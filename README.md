@@ -122,7 +122,9 @@ The first pushable box in the pushable box puzzle in section 3 was not positione
 
 An encounter I would like to focus on is the final encounter in section 3, which is shown on the section 3 level map. This encounter is meant to serve as the climax of the level, however when brought over to Unity, this encounter felt very underwhelming. So I decided to conceptualise an entirely new layout from this encounter, in a similar way to how the level maps were done. I wanted the encounter to be larger, and more difficult, but most importantly a memorable encounter that the player can look back on. For this, I decided to include new prefabs, as indicated in the design image below.
 
-![Section 3 Final Encounter Design](DocImages/section3_final_encounter_design.png)
+![Section 3 Final Encounter Design](DocImages/section3_final_encounter.png)
+
+This encounter design is much more sophisticaed, and offers two routes for the player towards the end. The starting points are the same as the original counter design, but begin as seperate paths that merge into one. The player is then taken on three moving platform sequences, with a brief moment of relief in betwee the second and first sequence. While this design is a improvement from the original design, the final encounter of section is still an area of the level that I feel could see greater improvements through further iterative design.
 
 ## Generative AI Use Acknowledgement
 
