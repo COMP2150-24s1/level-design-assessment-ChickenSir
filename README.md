@@ -120,6 +120,10 @@ The first pushable box in the pushable box puzzle in section 3 was not positione
 
 ![Section 3 Pushable Box Change](DocImages/section3_box_iteration.PNG)
 
+An encounter I would like to focus on is the final encounter in section 3, which is shown on the section 3 level map. This encounter is meant to serve as the climax of the level, however when brought over to Unity, this encounter felt very underwhelming. So I decided to conceptualise an entirely new layout from this encounter, in a similar way to how the level maps were done. I wanted the encounter to be larger, and more difficult, but most importantly a memorable encounter that the player can look back on. For this, I decided to include new prefabs, as indicated in the design image below.
+
+![Section 3 Final Encounter Design](DocImages/section3_final_encounter_design.png)
+
 ## Generative AI Use Acknowledgement
 
 Use the below table to indicate any Generative AI or writing assistance tools used in creating your document. Please be honest and thorough in your reporting, as this will allow us to give you the marks you have earnt. Place any drafts or other evidence inside this repository. This form and related evidence do not count to your word count.
