@@ -116,6 +116,10 @@ The positioning of the key room in section two did not translate well from conce
 
 ![Section 2 Key Room Change](DocImages/section2_keyroom_change.PNG)
 
+The first pushable box in the pushable box puzzle in section 3 was not positioned correctly, making it impossible to push to the tall wall. This change is reflected in this image.
+
+![Section 3 Pushable Box Change](DocImages/section3_box_iteration.PNG)
+
 ## Generative AI Use Acknowledgement
 
 Use the below table to indicate any Generative AI or writing assistance tools used in creating your document. Please be honest and thorough in your reporting, as this will allow us to give you the marks you have earnt. Place any drafts or other evidence inside this repository. This form and related evidence do not count to your word count.
