@@ -109,7 +109,12 @@ The chomper encounter storyboard for the first section did not account for the c
 The vertical jumping segment around the checkpoint in section two was not only very difficult, but also impossible as the player could not reach the second platform. A storyboard was used to conceptualise a potential change to be tested, which was then implemented into the game in Unity with a greybox design. As highlighted in the two images below.
 
 ![Section 2 Vertical Jump Storyboard](DocImages/section2_jump_storyboard.jpeg)
+
 ![Section 2 Vertical Jump Implementation](DocImages/section2_jump_implementation.PNG)
+
+The positioning of the key room in section two did not translate well from concept to in engine, the keyroom was not visible from the start of the platforming encounter. This was changed in engine to have the keyroom take up slightly more space to make the key visible to players. This is reflected in the screenshot below.
+
+![Section 2 Key Room Change](DocImages/section2_keyroom_change.PNG)
 
 ## Generative AI Use Acknowledgement
 
