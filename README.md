@@ -106,7 +106,7 @@ The chomper encounter storyboard for the first section did not account for the c
 
 ![Updated Section 1 Chomper Encounter](DocImages/chomper_iteration.PNG)
 
-The vertical jumping segment around the checkpoint in section two was not only very difficult, but also impossible as the player could not reach the second platform. A storyboard was used to conceptualise a potential change to be tested, which was then implemented into the game in Unity. As highlighted in the two images below.
+The vertical jumping segment around the checkpoint in section two was not only very difficult, but also impossible as the player could not reach the second platform. A storyboard was used to conceptualise a potential change to be tested, which was then implemented into the game in Unity with a greybox design. As highlighted in the two images below.
 
 ![Section 2 Vertical Jump Storyboard](DocImages/section2_jump_storyboard.jpeg)
 ![Section 2 Vertical Jump Implementation](DocImages/section2_jump_implementation.PNG)
