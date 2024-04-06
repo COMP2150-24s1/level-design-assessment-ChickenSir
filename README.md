@@ -53,6 +53,14 @@ What are the main challenges? How have you designed and balanced these challenge
 ### 1.4. Exploration
 How does your level design facilitate autonomy and invite the player to explore? How do your aesthetic and layout choices create distinct and memorable spaces and/or places?
 
+Throughout the level, the player is given various opportunities to explore in their own ways. There are many rooms in the level that the player will see in their field of view, but won't see an entrance to until later on, or will be obstructed by an obstacle of some kind. One of these rooms is a small room containing health pickups that the player will notice at the start of section three. When entering section three, the player is eventually greeted with a passthrough platform on the ground. Passing through this platform leads the player to the room they saw moments before. Encounters such as these invite the player to explore spaces in the level that intrigue them.
+
+![Secret Small Health Room](DocImages/secret_health_room.PNG)
+
+At one point in section three, the player is given two paths for progressing through the level. One path leads to a difficult spike encounter, while the other leads to a box puzzle area. If the player chooses to go through the difficult spike encounter, they will be rewarded with two additional health pickups. This layout choice creates a memorable space as the players are rewarded for their exploration.
+
+![Section Three Path Choice](DocImages/section3_path_choice.PNG)
+
 ## 2. Core Gameplay (~400 words)
 A section on Core Gameplay, where storyboards are used to outline how you introduce the player to each of the required gameplay elements in the first section of the game. Storyboards should follow the format provided in lectures.
 
