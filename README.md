@@ -20,6 +20,18 @@ Outline and justify how your level design facilitates the core player experience
 ### 1.1. Discovery
 What does the player learn? How does your encounter and broader level design facilitate learning in a way that follows good design practice?
 
+The player learns the mechanics of the game through play. At the start of section one, the player is greeted with the first key in their field of fov. Upon navigating to the key, the player will notice it is obstructed by a door that is opened by a switch. This introduction to keys allows the players to learn how to open the final door.
+
+![Image of key encounter](DocImages/key_encounter_screenshot.PNG)
+
+When the player is introduced to their first weapon, the staff, they encounter two chompers which allows them to understand how the staff works. They are greeted by a destructable wall shortly after. As it can't be pushed, the player may try to break it. This facilitates discovery through learning from play.
+
+![Image of Staff Encounter](DocImages/staff_encounter_screenshot.PNG)
+
+Finally, in section two the player will encounter a small hallway leading to a room with health pickups obstructed by a box. This box has a different appearance to the first, leading the player to experiment with ways to get past the box. This facilitates learning by allowing players to experiment with their surroundings, and learn from previous experiences.
+
+![Image of pushable box room](DocImages/box_room.PNG)
+
 ### 1.2. Drama
 What is the intensity curve? How does your design facilitate increasing yet modulating intensity, with moments of tension and relief? 
 
