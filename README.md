@@ -35,6 +35,18 @@ Finally, in section two the player will encounter a small hallway leading to a r
 ### 1.2. Drama
 What is the intensity curve? How does your design facilitate increasing yet modulating intensity, with moments of tension and relief? 
 
+Throughout the level, there are various points of tension and relief. Between most encounters, there are peroids of relief in the form of short platforming segments, or small rest rooms which give the player an opportunity to breath. The intensity curve starts off with the first segment guiding the player through the games mechanics. Then the player passes intom section two, and is introduced to their first platforming encounter. Combining both spikes and acid which leads to the player feeling more anxious about their next moves.
+
+![Image of platforming encounter](DocImages/section2_platforming_encounter.PNG)
+
+Afterwards, the player passes through a checkpoint, granting them a moment of relief. They then pass through a simple combat encounter, and a series of jumps up a vertical chamber. This keeps the players going with the flow of the level while decreasing the anxiety they may have felt from the previous section.
+
+![Image of section 2 relief](DocImages/section2_relief.PNG)
+
+Finally, after passing through the rest of section two, the player moves into section three. This section contains a series of difficult encounters to keep the player on edge, while providing brief moments of relief in between. Section three ends with a climactic final encounter that tests the players skills built up from the previous encounters.
+
+![A small checkpoint in section 3](DocImages/section3_relief.PNG)
+
 ### 1.3. Challenge
 What are the main challenges? How have you designed and balanced these challenges to control the difficulty curve and keep the player in the flow channel?
 
