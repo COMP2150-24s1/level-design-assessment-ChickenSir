@@ -54,7 +54,7 @@ The main challenges in the level involve platforming and combat. Section three i
 
 ![Section 3 Challenge One](DocImages/section3_challenge2.PNG)
 
-The second challenge of the levels main challenges is the final encounter of section three, which sees the difficulty rise as the player works with the dynamics learnt from previous encounters. This challenge includes spitters, chompers, acid and moving platforms. The moving platforms move at a constant pace, however they are balanced in a way that they do not move too fast as to not make the player feel rushed. These encounters keep the player in the flow channel by having a steady raise in difficulty and while requiring skill as players work with dynamics from previous segments of the level.
+The second challenge of the levels main challenges is the final encounter of section three, which sees the difficulty rise as the player works with the dynamics learnt from previous encounters. The moving platforms move at a constant pace, however they are balanced in a way that they do not move too fast as to not make the player feel rushed. These encounters keep the player in the flow channel by having a steady raise in difficulty and while requiring skill as players work with dynamics from previous segments of the level.
 
 ![Section 3 Challenge Two](DocImages/section3_challenge.PNG)
 
@@ -81,12 +81,12 @@ You should restructure the headings below to match the order they appear in your
 
 Understanding how checkpoints work is crucial for players as it plays into the intensity curve and provides peroids of relief. For this reason, it was important that checkpoints were introduced with a hazardous mechanic. 
 
-Acid was chosen for this as it essentially acts as a hard reset for players in the game, either reseting their progress or reverting them to a previous checkpoint. By having Acid and Checkpoints introduced in a single encounter, it allows players to safely investigate the properties of Acid while being given a saftey net.
+By having Acid and Checkpoints introduced in a single encounter, it allows players to safely investigate the properties of Acid while being given a saftey net.
 
 ### 2.2. Chompers and Weapon Pickup (Staff)
 ![Chompers and Staff Demonstration](DocImages/chompers_staff_storyboard.jpeg)
 
-In some parts of the game players will encounter Chompers, a melee based enemy that may serve as a road block to players and provide them with a challenge. For this reason Chompers are introduced in a single pair so that players may safely understand their capabilities.
+In some parts of the game players will encounter Chompers, an enemy that may serve as a road block to players and provide them with a challenge. For this reason Chompers are introduced in a single pair so that players may safely understand their capabilities.
 
 In this case, the player is introduced to the staff melee weapon pickup followed immediately by a pair of chompers. By being introduced in this order, players will draw connections between the Chompers and the Staff and be given an opportunity to discover the dynamics between these two mechanics.
 
@@ -112,7 +112,7 @@ For this reason, spikes are introduced to the player with moving platforms. It p
 ### 2.6. Spitters and Weapon Pickup (Gun)
 ![Spitters and Gun Demonstration](DocImages/spitters_and_gun_storyboard.jpeg)
 
-Throughout the game, players will encounter enemies that provide moments of tension for the player. As such, it is important to introduce enemies to the player in a safe manner while also giving players the opportunity to familiarise themselves with the tools at their disposal.
+Throughout the game, players will encounter enemies that provide moments of tension for the player. It is important to introduce enemies while giving players the opportunity to familiarise themselves with the tools at their disposal.
 
 In this instance, the player is introduced to the gun weapon pickup and then encounters a single spitter. After picking up the gun and encountering the spitter, players will understand the guns ideal purpose in the core gameplay loop and it's dynamic when used against spitters.
 
@@ -142,7 +142,7 @@ The iterative design process allowed me to test out the concepts from the level 
 
 ![Updated Section 1 Acid Encounter](DocImages/acid_iteration.PNG)
 
-The chomper encounter storyboard for the first section did not account for the chompers ability to move up until they encounter a ledge or a wall. This meant that the chompers could move ontop of the staff weapon pickup. This was adjusted with a small bump being added after the staff pickup so the chompers remain in a controlled area.
+The chomper encounter storyboard for the first section did not account for the chompers ability to move up until they encounter a ledge or a wall. This was adjusted with a small bump being added after the staff pickup so the chompers remain in a controlled area.
 
 ![Updated Section 1 Chomper Encounter](DocImages/chomper_iteration.PNG)
 
@@ -160,8 +160,8 @@ The first pushable box in the pushable box puzzle in section 3 was not positione
 
 ![Section 3 Pushable Box Change](DocImages/section3_box_iteration.PNG)
 
-An encounter I would like to focus on is the final encounter in section 3, which is shown on the section 3 level map. This encounter is meant to serve as the climax of the level, however when brought over to Unity, this encounter felt very underwhelming. So I decided to conceptualise an entirely new layout from this encounter, in a similar way to how the level maps were done. I wanted the encounter to be larger, and more difficult, but most importantly a memorable encounter that the player can look back on. For this, I decided to include new prefabs, as indicated in the design image below.
+An encounter I would like to focus on is the final encounter in section 3, which is shown on the section 3 level map. This encounter is meant to serve as the climax of the level, however when brought over to Unity, this encounter felt very underwhelming. So I decided to conceptualise an entirely new layout from this encounter, in a similar way to how the level maps were done. I wanted the encounter to be larger, and more difficult, but most importantly a memorable encounter that the player can look back on.
 
 ![Section 3 Final Encounter Design](DocImages/section3_final_encounter.png)
 
-This encounter design is much more sophisticaed, and offers two routes for the player towards the end. The starting points are the same as the original counter design, but begin as seperate paths that merge into one. The player is then taken on three moving platform sequences, with a brief moment of relief in betwee the second and first sequence. While this design is a improvement from the original design, the final encounter of section is still an area of the level that I feel could see greater improvements through further iterative design.
+This encounter design is much more sophisticated, and offers two routes for the player towards the end. The player is then taken on three moving platform sequences, with a brief moment of relief in betwee the second and first sequence. While this design is a improvement from the original design, the final encounter of section is still an area of the level that I feel could see greater improvements through further iterative design.
