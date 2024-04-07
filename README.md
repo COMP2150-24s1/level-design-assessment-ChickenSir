@@ -50,6 +50,14 @@ Finally, after passing through the rest of section two, the player moves into se
 ### 1.3. Challenge
 What are the main challenges? How have you designed and balanced these challenges to control the difficulty curve and keep the player in the flow channel?
 
+The main challenges in the level involve platforming and combat. Section three includes two challenges that are designed to keep the player on their feet. The first challenge in section three is a combat and platforming encounter that branches off into a difficult platforming challenge. This challenge is balanced to give players platforms to engage in combat with enemies in.
+
+![Section 3 Challenge One](DocImages/section3_challenge2.PNG)
+
+The second challenge of the levels main challenges is the final encounter of section three, which sees the difficulty rise as the player works with the dynamics learnt from previous encounters. This challenge includes spitters, chompers, acid and moving platforms. The moving platforms move at a constant pace, however they are balanced in a way that they do not move too fast as to not make the player feel rushed. These encounters keep the player in the flow channel by having a steady raise in difficulty and while requiring skill as players work with dynamics from previous segments of the level.
+
+![Section 3 Challenge Two](DocImages/section3_challenge.PNG)
+
 ### 1.4. Exploration
 How does your level design facilitate autonomy and invite the player to explore? How do your aesthetic and layout choices create distinct and memorable spaces and/or places?
 
